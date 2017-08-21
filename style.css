@@ -1,0 +1,23 @@
+body{
+    width: 90%;
+    margin: 0 auto; 
+    background-color: beige;
+        font-size: 1em;
+    font-family: sans-serif;
+}
+.container{
+    padding: 1em;
+    background-color: white;
+    
+}
+h1,h2{
+    text-align: center;
+    background-color:darkgoldenrod
+}
+@media print{
+    img{
+        display:none;
+    }
+{
+    
+
