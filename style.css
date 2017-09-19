@@ -14,10 +14,16 @@ h1,h2{
     text-align: center;
     background-color:darkgoldenrod
 }
-@media print{
+/*@media print{
+
     img{
         display:none;
     }
-{
+}
+*/
+img{
     
+    overflow:hidden;
+    width: 100px;
+}
 
